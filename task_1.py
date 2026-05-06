@@ -3,7 +3,6 @@ def caching_fibonacci():
     cache = {}
 
     def fibonacci(n):
-        # 2. Всі ці рядки МАЮТЬ мати додатковий відступ (4 пробіли)
         if n <= 0:
             return 0
         if n == 1:
