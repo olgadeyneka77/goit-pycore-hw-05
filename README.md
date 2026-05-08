@@ -8,7 +8,7 @@
 ---
 
 <a name="english"></a>
-#### Project Overview (EN)
+###### Project Overview (EN)
 This repository contains solutions for the fifth homework of the Python Core course. The tasks focus on functional programming, closures, generators, and advanced error handling using decorators.
 
 ###### 📂 Project Structure
