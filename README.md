@@ -1,5 +1,4 @@
 # Homework 5 / Домашнє завдання №5
-
 <p align="left">
   <a href="#english">English Description</a> • 
   <a href="#українська">Опис українською</a>
